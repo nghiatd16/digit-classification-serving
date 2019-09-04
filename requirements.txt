@@ -1,0 +1,6 @@
+grpc
+numpy
+tensorflow==1.14.0
+tensorflow-serving-api==1.14.0
+opencv-python
+opencv-contrib-python
