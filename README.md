@@ -5,6 +5,7 @@ OCR Mobile card
 
 ### Pull image
 Download tf serving docker:
+
 TF Serving compiled with AVX2 FMA : https://drive.google.com/file/d/1LcTkSlntkp7qlCGbIa72wSfsqnjpLFXA/view?usp=sharing
 
 TF Serving default : https://drive.google.com/file/d/13Fvcz48F4E1R5C8jqmdLuzdtIBI8JJI6/view?usp=sharing
