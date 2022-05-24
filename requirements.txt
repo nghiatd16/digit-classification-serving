@@ -1,6 +1,6 @@
 grpcio
 numpy
-tensorflow==1.15.2
+tensorflow==2.6.4
 tensorflow-serving-api==1.14.0
 opencv-python
 opencv-contrib-python
